@@ -46,6 +46,6 @@
 
         .moveable-image {
             position: relative; /* or absolute */
-            left: 500px;  /* move 50px to the right */
+            left: 700px;  /* move 50px to the right */
             top: 20px;   /* move 20px down */
         }
