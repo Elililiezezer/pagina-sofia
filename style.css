@@ -43,4 +43,9 @@
         .botao-personalizado:hover {
             background-color: #1a1616ab;
         }
-    
+
+        .img {
+            position: relative; /* or absolute */
+            left: 50px;  /* move 50px to the right */
+            top: 20px;   /* move 20px down */
+        }
