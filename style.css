@@ -55,3 +55,9 @@
             left: 750px;  /* move 50px to the right */
             top: -70px;   /* move 20px down */
         }
+
+        .moveable-giffvento {
+            position: relative; /* or absolute */
+            left: 500px;  /* move 50px to the right */
+            top: 0px;   /* move 20px down */
+        }
