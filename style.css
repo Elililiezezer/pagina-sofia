@@ -51,14 +51,12 @@
         }
 
         .moveable-gif {
-            background-color: #518809d3;
             position: relative; /* or absolute */
             left: 750px;  /* move 50px to the right */
             top: -70px;   /* move 20px down */
         }
 
         .moveable-giffvento {
-            background-color: aquamarine;
             position: relative; /* or absolute */
             left: 700px;  /* move 50px to the right */
             top: -150px;   /* move 20px down */
