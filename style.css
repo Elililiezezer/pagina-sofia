@@ -53,5 +53,5 @@
         .moveable-gif {
             position: relative; /* or absolute */
             left: 735px;  /* move 50px to the right */
-            top: 5px;   /* move 20px down */
+            top: -50px;   /* move 20px down */
         }
