@@ -45,7 +45,5 @@
         }
 
         .moveable-image {
-            position: relative; /* or absolute */
-            left: 725px;  /* move 50px to the right */
-            top: 10px;   /* move 20px down */
+          background-size: cover;
         }
