@@ -62,6 +62,11 @@
             top: -150px;   /* move 20px down */
         }
 
+        .kktua-gif {
+            position: relative;
+            left: 400px;
+            top: -150px;
+        }
         .text-color{
             color: #fcf7f7;
         }
