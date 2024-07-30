@@ -64,8 +64,8 @@
 
         .kktua-gif {
             position: relative;
-            left: 0px;
-            top: -150px;
+            left: -150px;
+            top: -100px;
         }
         .text-color{
             color: #fcf7f7;
