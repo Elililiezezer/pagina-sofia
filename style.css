@@ -46,20 +46,14 @@
 
         .moveable-image {
             position: relative; /* or absolute */
-            left: 750px;  /* move 50px to the right */
+            left: 800px;  /* move 50px to the right */
             top: -10px;   /* move 20px down */
         }
 
         .moveable-gif {
             position: relative; /* or absolute */
-            left: 750px;  /* move 50px to the right */
+            left: 800px;  /* move 50px to the right */
             top: -70px;   /* move 20px down */
-        }
-
-        .moveable-giffvento {
-            position: relative; /* or absolute */
-            left: 700px;  /* move 50px to the right */
-            top: -150px;   /* move 20px down */
         }
 
         .kktua-gif {
