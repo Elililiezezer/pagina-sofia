@@ -46,13 +46,13 @@
 
         .moveable-image {
             position: relative; /* or absolute */
-            left: 800px;  /* move 50px to the right */
+            left: 820px;  /* move 50px to the right */
             top: -10px;   /* move 20px down */
         }
 
         .moveable-gif {
             position: relative; /* or absolute */
-            left: 800px;  /* move 50px to the right */
+            left: 820px;  /* move 50px to the right */
             top: -70px;   /* move 20px down */
         }
 
